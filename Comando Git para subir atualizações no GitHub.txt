@@ -1,0 +1,11 @@
+Meu commit para atualização do projeto 
+
+Fazer a atualização no código SALVAR e fazer esses comandos:
+
+git add . -> atualizar todos os arquivos
+
+git commit -m "meu commit" -> realizar o commit informando o texto sobre a atualização 
+
+git push origin main -> empurrar o código atualizado. Com isso já atualiza o código no GitHub e neste caso também no site.
+
+ 
